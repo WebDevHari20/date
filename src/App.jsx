@@ -169,7 +169,7 @@ const App = () => {
                         </ul>
                       </div>
                       <p className="italic text-gray-600 pt-2 font-medium">
-                        Bs ab jaldi se maan jao date afternoon envelop me jaake yes tap karo aur gussa thook do. Me tumhe ghumane le jaane ke liye bahot excited hu..! 🫂🫂🫂
+                        Bs ab jaldi se maan jao -- date afternoon envelop me jaake yes tap karo aur gussa thook do. Me tumhe ghumane le jaane ke liye bahot excited hu..! 🫂🫂🫂
                       </p>
                       <p className="text-pink-600 font-bold text-right pt-4">— Always yours, Gullu</p>
                     </div>
